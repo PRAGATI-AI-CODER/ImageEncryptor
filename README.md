@@ -1,3 +1,5 @@
+##ImageEncryptor
+
 This project implements a basic image encryption tool using Python. The tool allows users to encrypt and decrypt images using a specified key. Encryption is performed by applying XOR operations to each pixel of the image.
 
 Features:
